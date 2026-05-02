@@ -111,11 +111,9 @@ Returns an HTML page with a personalised greeting, a programmer joke, and the Vi
 
 ---
 
-## 🖼️ Screenshots
 
-### `GET /greeting` – Default (no name parameter → "World")
 
-![GET /greeting default](screenshots/screenshot-greeting.png)
+
 
 > Navigating to `http://localhost:8080/greeting` without a `name` parameter shows **"Hello, World!"**, the programmer joke, and the Vistula logo.
 
@@ -147,3 +145,6 @@ A Thymeleaf template that dynamically renders the `name` attribute passed from t
 
 **Moatez** – Akademia Finansów i Biznesu Vistula  
 Course: Spring Framework Apps – Task 1<img width="1919" height="1079" alt="Screenshot 2026-05-02 223127" src="https://github.com/user-attachments/assets/5162c6a8-ab22-40a7-94b4-2066f0c5ccef" />
+## 🖼️ Screenshots
+
+### `GET /greeting` – Default (no name parameter → "World")
