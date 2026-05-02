@@ -147,6 +147,6 @@ A Thymeleaf template that dynamically renders the `name` attribute passed from t
 Course: Spring Framework Apps – Task 1  
 ## 🖼️ Screenshots
 
-### `GET /greeting` – Default (no name parameter → "World")<img width="1919" height="1079" alt="Screenshot 2026-05-02 223127" 
-            src="https://github.com/user-attachments/assets/5162c6a8-ab22-40a7-94b4-2066f0c5ccef" />
+### `GET /greeting` – Default (no name parameter → "World")
 
+<img width="1919" height="1079" alt="Screenshot 2026-05-02 223127" src="https://github.com/user-attachments/assets/c08899dc-7bb7-4867-937a-6e54afb05abc" />
