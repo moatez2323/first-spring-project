@@ -144,7 +144,8 @@ A Thymeleaf template that dynamically renders the `name` attribute passed from t
 ## 👤 Author
 
 **Moatez** – Akademia Finansów i Biznesu Vistula  
-Course: Spring Framework Apps – Task 1<img width="1919" height="1079" alt="Screenshot 2026-05-02 223127" src="https://github.com/user-attachments/assets/5162c6a8-ab22-40a7-94b4-2066f0c5ccef" />
-## 🖼️ Screenshots
+Course: Spring Framework Apps – Task 1<img width="1919" height="1079" alt="Screenshot 2026-05-02 223127" 
+                                         ## 🖼️ Screenshots
 
-### `GET /greeting` – Default (no name parameter → "World")
+### `GET /greeting` – Default (no name parameter → "World")src="https://github.com/user-attachments/assets/5162c6a8-ab22-40a7-94b4-2066f0c5ccef" />
+
